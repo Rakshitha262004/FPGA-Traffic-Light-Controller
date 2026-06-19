@@ -141,8 +141,21 @@ Opens at `http://localhost:8501`. Features:
 ---
 
 ## 📸 Screenshots
-- RTL code, testbench, waveform, synthesis report — see `images/` and `reports/`
-- Dashboard screenshot — see `images/dashboard_screenshot.png`
+![dashboard](images/1.png)
+![dashboard](images/2.png)
+![dashboard](images/3.png)
+![dashboard](images/4.png)
+![dashboard](images/5.png)
+![dashboard](images/6.png)
+![dashboard](images/7.png)
+![dashboard](images/8.png)
+![dashboard](images/9.png)
+
+---
+
+## Demo Video
+
+Link : https://drive.google.com/file/d/19j_pPdktUOAYBgCQGusTryKaYwviWOyB/view?usp=sharing
 
 ---
 
@@ -152,6 +165,10 @@ Opens at `http://localhost:8501`. Features:
 - Real FPGA board LED deployment with photo/video proof
 
 ---
+
+## Author 
+** Rakshitha A S **
+
 
 ## 🎓 Learning Outcomes
 Hands-on experience with FSM design, synchronous RTL coding style,
