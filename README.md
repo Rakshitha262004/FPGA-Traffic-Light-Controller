@@ -166,12 +166,12 @@ Link : https://drive.google.com/file/d/19j_pPdktUOAYBgCQGusTryKaYwviWOyB/view?us
 
 ---
 
-## Author 
-** Rakshitha A S **
-
-
 ## 🎓 Learning Outcomes
 Hands-on experience with FSM design, synchronous RTL coding style,
 testbench verification methodology, the full Vivado synthesis-to-
 bitstream flow, and building a software visualization layer on top
 of a hardware design for demo/portfolio purposes.
+
+---
+## Author 
+***Rakshitha A S***
